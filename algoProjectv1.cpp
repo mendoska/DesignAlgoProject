@@ -11,7 +11,7 @@ public:
 	std::chrono::duration<float> averageTime;
 };
 
-//function declrations
+//function declarations
 void INSERTIONSORT(std::vector<int> A);
 void BUILDMAXHEAP(std::vector<int> &A);
 void MAXHEAPIFY(std::vector <int> &A, int i, int n);
