@@ -1,8 +1,5 @@
 /*
 ALEXANDER MENDOZA
-Z23435963
-COT4400
-
 NOTES:
 * There are comments throughout this source code to explain thought process
 * For n input in the function parameter I will pass n-1 
